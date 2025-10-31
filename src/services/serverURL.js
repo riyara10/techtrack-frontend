@@ -1,2 +1,2 @@
 // services/serverURL.js
-export const serverURL = 'http://localhost:3000'; // Default JSON Server port
+export const serverURL = 'https://tech-track.onrender.com'; // Default JSON Server port
