@@ -1,5 +1,4 @@
-import { baseURL } from "./commonAPI.js";
-import commonAPI from "./commonAPI.js";
+import commonAPI from "./commonAPI.JS";
 import { serverURL } from "./serverURL";
 
 // Review APIs
